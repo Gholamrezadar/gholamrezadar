@@ -1,5 +1,11 @@
-### 🏴‍☠️ Hi, My name is  **Gholamreza Dar**. 
-I'm currently studying for a master's degree in *Artificial Intelligence* at *Amirkabir Universiy of Tehran*.
+<p align="center">
+  <h2>🏴‍☠️ Hi, My name is  <b>Gholamreza Dar</b>. </h2>
+  I'm currently studying for a master's degree in *Artificial Intelligence* at *Amirkabir Universiy of Tehran*.
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="24px"/></a>
+</p>
+</br>
 
 I'm quite familiar with:
 <!-- Language Card -->
@@ -41,7 +47,7 @@ And have dabbled in:
 </p>
 
 </br>
-Find more info at [gholamrezadar.ir](http://gholamrezadar.ir)
+Find more info at http://gholamrezadar.ir
 
 <!--
 **Gholamrezadar/gholamrezadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
