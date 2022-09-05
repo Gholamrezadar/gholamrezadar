@@ -1,13 +1,15 @@
 <p align="center">
-  <h2>🏴‍☠️ Hi, My name is  <b>Gholamreza Dar</b>. </h2>
-  I'm currently studying for a master's degree in *Artificial Intelligence* at *Amirkabir Universiy of Tehran*.
-
-<a href="https://www.linkedin.com/in/yushi95/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="24px"/></a>
+  <h2 align="center">🏴‍☠️ Hi, My name is  <b>Gholamreza Dar</b>. </h2>
+  <div align="center">I'm currently studying for a master's degree in <i>Artificial Intelligence</i> at <i>Amirkabir University of Tehran</i>.</div>
 </p>
-</br>
+<div align="center">
+<a href="https://www.linkedin.com/in/gholamrezadar/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/></a> 
+<a href="https://instagram.com/gholamreza_dar"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="24px"/></a>
+  </div>
 
-I'm quite familiar with:
+</br></br>
+
+🏍 I'm quite familiar with:
 <!-- Language Card -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +23,7 @@ I'm quite familiar with:
 
 </br>
 
-And have dabbled in:
+🚗 And have dabbled in:
 <!-- Language Card -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,8 +40,8 @@ And have dabbled in:
   <!-- Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gholamrezadar&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
-  </a>
-  </br></br>
+  </a>  
+<!--   </br></br> -->
   <!-- Language Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholamrezadar&theme=github_dark&hide_border=true&langs_count=10&layout=compact" />
