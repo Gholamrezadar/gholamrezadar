@@ -23,8 +23,8 @@
 
 </br>
 
+<!---
 🚗 And have dabbled in:
-<!-- Language Card -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
@@ -34,19 +34,32 @@
     <img src="https://skillicons.dev/icons?i=git,electron" />
   </a>
 </p>
+--->
 
 <p align="center">
   
-  <!-- Stats Card -->
+<!---
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gholamrezadar&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
   </a>  
-<!--   </br></br> -->
-  <!-- Language Card -->
+--->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholamrezadar&theme=github_dark&hide_border=true&langs_count=10&layout=compact" />
   </a>
 </p>
+
+</br>
+
+## A list of Projects to check
+- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [WebPage](https://ghdyt.vercel.app/)
+- [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
+- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
+- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [Webpage](https://gholamrezadar.github.io/Triomino-Tiling/)
+- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [Webpage](https://gholamrezadar.github.io/wtp/)
+- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
+
 
 </br>
 Find more info at http://gholamrezadar.ir
