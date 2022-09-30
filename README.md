@@ -53,12 +53,16 @@
 ## A list of Projects to check
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
 - [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [(link)](https://ghdyt.vercel.app/)
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
+- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
+- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
+- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
 - [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [(link)](https://gholamrezadar.github.io/Triomino-Tiling/)
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [(link)](https://gholamrezadar.github.io/wtp/)
-- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
+
+
 
 
 </br>
