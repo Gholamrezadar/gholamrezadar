@@ -53,6 +53,7 @@
 ## A list of Projects to check
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next)[(link)](http://ghd-snippets.vercel.app)
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
+- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
 - [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [(link)](https://ghdyt.vercel.app/)
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
