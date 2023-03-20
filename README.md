@@ -3,7 +3,7 @@
   <div align="center">I'm currently studying for a master's degree in <i>Artificial Intelligence</i> at <i>Amirkabir University of Tehran</i>.</div>
 </p>
 <div align="center">
-<a href="https://www.linkedin.com/in/gholamrezadar/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/></a> 
+<a href="https://www.linkedin.com/in/gholamrezadar/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/gholamreza_dar"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="24px"/></a>
   </div>
 
@@ -43,28 +43,32 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gholamrezadar&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
   </a>  
 --->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholamrezadar&theme=github_dark&hide_border=true&langs_count=10&layout=compact" />
-  </a>
+  </a> -->
+  <img src="https://gpvc.arturio.dev/gholamrezadar"/>
 </p>
 
-<img src="https://gpvc.arturio.dev/gholamrezadar"/>
+
 
 </br>
 
 ## A list of Projects to check
-- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next)[(link)](http://ghd-snippets.vercel.app)
+- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🌐](http://ghd-snippets.vercel.app)
+- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🌐](https://notebook-to-py.vercel.app/)
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🌐](https://ghdyt.vercel.app/)
+- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🌐](https://gholamrezadar.github.io/Triomino-Tiling/)
+- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🌐](https://gholamrezadar.github.io/wtp/)
+
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
-- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [(link)](https://ghdyt.vercel.app/)
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
-- [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
-- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [(link)](https://gholamrezadar.github.io/Triomino-Tiling/)
-- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [(link)](https://gholamrezadar.github.io/wtp/)
+- [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
+
 
 
 
