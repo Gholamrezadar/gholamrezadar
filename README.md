@@ -81,7 +81,7 @@ I'm quite familiar with:
 - [History Timeline](https://github.com/Gholamrezadar/history-timeline)
 
 🔧 Tools
-- [GHF Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
+- [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
 
 </br>
