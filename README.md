@@ -79,6 +79,7 @@ I'm quite familiar with:
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
 - [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis)
 - [History Timeline](https://github.com/Gholamrezadar/history-timeline)
+- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment)
 
 🔧 Tools
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
