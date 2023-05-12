@@ -82,6 +82,17 @@ I'm quite familiar with:
 - [History Timeline](https://github.com/Gholamrezadar/history-timeline)
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment)
 
+🖋 Sketchies
+- [Mandelbrot fast glsl bah bah](https://www.shadertoy.com/view/ssdfDS)
+- [Mandelbrot slow js](https://editor.p5js.org/Gholamrezadar/sketches/px_eZh-D)
+- [Chromatic abberation lookin star!](https://www.shadertoy.com/view/WsScWz)
+- [Shadow Vizualization thing](https://editor.p5js.org/Gholamrezadar/sketches/Qu1qX2DeU)
+- [Phyllotaxis Visualization](https://editor.p5js.org/Gholamrezadar/sketches/7u8cRQ3yF)
+- [Voronoi Diagram](https://editor.p5js.org/Gholamrezadar/sketches/GLUKDC5Xe)
+- [Circle Inversion](https://editor.p5js.org/Gholamrezadar/sketches/oy_His35_)
+- [010101010101010](https://editor.p5js.org/Gholamrezadar/sketches/5pkHInDH0)
+- [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/sketches/W07Ere8fG)
+
 🔧 Tools
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
