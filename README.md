@@ -74,6 +74,7 @@ I'm quite familiar with:
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
+- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT)
 
 🧠 Dumb Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
