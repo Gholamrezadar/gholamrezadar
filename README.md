@@ -97,6 +97,7 @@ I'm quite familiar with:
 
 🔧 Tools
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
+- [batch-resize-images](https://github.com/Gholamrezadar/batch-resize-images)
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
 - [.dotfiles](https://github.com/Gholamrezadar/.dotfiles)
 
