@@ -26,19 +26,6 @@ I'm quite familiar with:
 </p>
 </br>
 
-<!---
-🚗 And have dabbled in:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
-    </br>
-    <img src="https://skillicons.dev/icons?i=rust,dart,flutter" />
-  </br>
-    <img src="https://skillicons.dev/icons?i=git,electron" />
-  </a>
-</p>
---->
-
 <!-- Github Stats -->
 <p align="center">
   <!-- Github Stats -->
@@ -97,7 +84,7 @@ I'm quite familiar with:
 
 🔧 Tools
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
-- [batch-resize-images](https://github.com/Gholamrezadar/batch-resize-images)
+- [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images)
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
 - [.dotfiles](https://github.com/Gholamrezadar/.dotfiles)
 
@@ -108,18 +95,3 @@ Find more info at http://gholamrezadar.ir
 <p align="center">
   <img src="https://gpvc.arturio.dev/gholamrezadar"/>
 </p>
-
-<!--
-**Gholamrezadar/gholamrezadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
