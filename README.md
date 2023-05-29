@@ -58,6 +58,7 @@ I'm quite familiar with:
 
 📸 Image Processing / CV
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
+- [Football player Robot](https://github.com/Gholamrezadar/football-robot)
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
