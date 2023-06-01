@@ -60,6 +60,7 @@ I'm quite familiar with:
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
 - [Football player Robot](https://github.com/Gholamrezadar/football-robot)
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
+- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus)
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
