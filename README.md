@@ -78,7 +78,7 @@ I'm quite familiar with:
 - [Mandelbrot slow js](https://editor.p5js.org/Gholamrezadar/full/px_eZh-D)
 - [Circles Glow Effect!](https://editor.p5js.org/Gholamrezadar/full/PZIZ0pFNN)
 - [Phyllotaxis Visualization](https://editor.p5js.org/Gholamrezadar/full/7u8cRQ3yF)
-- [Shadow Vizualization thing](https://editor.p5js.org/Gholamrezadar/full/Qu1qX2DeU)
+- [Shadow Visualization thing](https://editor.p5js.org/Gholamrezadar/full/Qu1qX2DeU)
 - [Voronoi Diagram](https://editor.p5js.org/Gholamrezadar/full/GLUKDC5Xe)
 - [Circle Inversion](https://editor.p5js.org/Gholamrezadar/full/oy_His35_)
 - [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0)
