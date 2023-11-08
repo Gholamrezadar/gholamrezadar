@@ -29,9 +29,11 @@ I'm quite familiar with:
 <!-- Github Stats -->
 <p align="center">
   <!-- Github Stats -->
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gholamrezadar&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
-  </a>  
+  </a>
+  -->
 
   <!--  Languages  -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,7 +56,7 @@ I'm quite familiar with:
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing)
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube)
-- [GHDgl a barebone opengl template](https://github.com/Gholamrezadar/GHDgl)
+- [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl)
 
 📸 Image Processing / CV
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
@@ -88,7 +90,7 @@ I'm quite familiar with:
 🖋 Shaders
 - [Mandelbrot fast glsl bah bah](https://www.shadertoy.com/view/ctK3W1)
 - [ljfkluehvhu?!!!](https://www.shadertoy.com/view/dltSW4)
-- [Chromatic abberation lookin star!](https://www.shadertoy.com/view/WsScWz)
+- [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz)
 
 🔧 Tools
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
@@ -100,6 +102,8 @@ I'm quite familiar with:
 Find more info at http://gholamrezadar.ir
 
 <!-- Github views -->
+<!--
 <p align="center">
   <img src="https://gpvc.arturio.dev/gholamrezadar"/>
 </p>
+-->
