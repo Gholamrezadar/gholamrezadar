@@ -47,7 +47,7 @@ I'm quite familiar with:
 ## A list of Projects to check
 
 📸 Image Processing / CV
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/computer-vision-exercises)
+- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises)
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
 - [Football player Robot](https://github.com/Gholamrezadar/football-robot)
