@@ -45,6 +45,19 @@ I'm quite familiar with:
 </br>
 
 ## A list of Projects to check
+
+📸 Image Processing / CV
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/computer-vision-exercises)
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
+- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
+- [Football player Robot](https://github.com/Gholamrezadar/football-robot)
+- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus)
+- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
+- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
+- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
+- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT)
+
+  
 🌐 Web Apps
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app)
 - [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/)
@@ -57,16 +70,6 @@ I'm quite familiar with:
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing)
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube)
 - [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl)
-
-📸 Image Processing / CV
-- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
-- [Football player Robot](https://github.com/Gholamrezadar/football-robot)
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
-- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus)
-- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
-- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
-- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
-- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT)
 
 🧠 Dumb Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
