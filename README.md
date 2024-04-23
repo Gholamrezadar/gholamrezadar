@@ -66,6 +66,7 @@ I'm quite familiar with:
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/)
 
 🌞 Computer Graphics
+- [GHDgl](https://github.com/Gholamrezadar/GHDgl)
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing)
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube)
