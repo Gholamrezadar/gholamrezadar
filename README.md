@@ -84,27 +84,27 @@ I'm quite familiar with:
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
 
 🖋 Sketchies
-- [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_)
-- [Car Steering Simulator](https://editor.p5js.org/Gholamrezadar/full/12JoH64Av)
-- [Pinhole Camera Simulator](https://editor.p5js.org/Gholamrezadar/full/s4RSnIkpm)
-- [Camera Lens 2 Object Visualizer](https://editor.p5js.org/Gholamrezadar/full/GZX0rMnlH)
-- [Mandelbrot slow js](https://editor.p5js.org/Gholamrezadar/full/px_eZh-D)
-- [Circles Glow Effect!](https://editor.p5js.org/Gholamrezadar/full/PZIZ0pFNN)
-- [Phyllotaxis Visualization](https://editor.p5js.org/Gholamrezadar/full/7u8cRQ3yF)
-- [Shadow Visualization thing](https://editor.p5js.org/Gholamrezadar/full/Qu1qX2DeU)
-- [Voronoi Diagram](https://editor.p5js.org/Gholamrezadar/full/GLUKDC5Xe)
-- [Circle Inversion](https://editor.p5js.org/Gholamrezadar/full/oy_His35_)
-- [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0)
-- [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/full/W07Ere8fG)
+- [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_) What is the best point to aim for in darts? Based on your accuracy.
+- [Car Steering Simulator](https://editor.p5js.org/Gholamrezadar/full/12JoH64Av) Simulate a steering vehicle and calculate the pivot of rotation.
+- [Pinhole Camera Simulator](https://editor.p5js.org/Gholamrezadar/full/s4RSnIkpm) Simulation of a simple Pinhole Camera. try dragging the elements around to see what happens!
+- [Camera Lens 2 Object Visualizer](https://editor.p5js.org/Gholamrezadar/full/GZX0rMnlH) What happens to the Image of two objects that are a fixed distance apart in a camera?
+- [Mandelbrot slow js](https://editor.p5js.org/Gholamrezadar/full/px_eZh-D) Drawing the Mandelbrot set using javascript (very slow, see the shader version in the next section)
+- [Circles Glow Effect!](https://editor.p5js.org/Gholamrezadar/full/PZIZ0pFNN) A specific glowing effect R&D
+- [Phyllotaxis Visualization](https://editor.p5js.org/Gholamrezadar/full/7u8cRQ3yF) Phyllotaxis [Wikipedia](https://en.wikipedia.org/wiki/Phyllotaxis)
+- [Shadow Visualization thing](https://editor.p5js.org/Gholamrezadar/full/Qu1qX2DeU) Simple visualization of a circle casting a 2D shadow.
+- [Voronoi Diagram](https://editor.p5js.org/Gholamrezadar/full/GLUKDC5Xe) Draw the Voronoi pattern using p5*js. [Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram)
+- [Circle Inversion](https://editor.p5js.org/Gholamrezadar/full/oy_His35_) A failed attempt at drawing the Apollonian Gasket! but learned about Circle Inversion [Wikipedia](https://en.wikipedia.org/wiki/Apollonian_gasket)
+- [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0) A 01-filled background!
+- [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/full/W07Ere8fG) Rasme dabirestan!
 
 🖋 Shaders
-- [Mandelbrot fast glsl bah bah](https://www.shadertoy.com/view/ctK3W1)
-- [ljfkluehvhu?!!!](https://www.shadertoy.com/view/dltSW4)
-- [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz)
+- [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
+- [Acid Shader?!!!](https://www.shadertoy.com/view/dltSW4) Acid shader!
+- [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
 
 🔧 Tools
-- [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer)
-- [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images)
+- [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A python library with minimal and easy API to debug the running time of pieces of code.
+- [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images) A python tool for batch resizing of Images in a directory (very good for archiving images).
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
 - [.dotfiles](https://github.com/Gholamrezadar/.dotfiles)
 
