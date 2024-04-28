@@ -64,24 +64,24 @@ I'm quite familiar with:
 
   
 🌐 Web Apps
-- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app)
-- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/)
-- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/)
-- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/)
-- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/)
+- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
+- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your youtube watch history file and produces a report of your favorites channels.
+- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
+- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 🌞 Computer Graphics
-- [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev)
-- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
-- [Circle Packing](https://github.com/Gholamrezadar/circle-packing)
-- [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube)
-- [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl)
+- [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
+- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
+- [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
+- [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
+- [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl) OpenGL starter project/template.
 
 🧠 Dumb Ideas
-- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
-- [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis)
-- [History Timeline](https://github.com/Gholamrezadar/history-timeline)
-- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment)
+- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
+- [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
+- [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
+- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
 
 🖋 Sketchies
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_)
