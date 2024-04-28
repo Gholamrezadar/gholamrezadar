@@ -27,6 +27,7 @@ I'm quite familiar with:
 </br>
 
 <!-- Github Stats -->
+<!--
 <p align="center">
   <!-- Github Stats -->
   <!--
@@ -43,42 +44,44 @@ I'm quite familiar with:
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholamrezadar&theme=github_dark&hide_border=true&langs_count=10&layout=compact&hide=jupyter%20notebook,PHP,Javascript" />
   </a>
   -->
+  <!--
 </p>
 </br>
+-->
 
 ## A list of Projects to check
 
 📸 Image Processing / CV
-- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises)
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
-- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
-- [Football player Robot](https://github.com/Gholamrezadar/football-robot)
-- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus)
-- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
-- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
-- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
-- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT)
+- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course.
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course.
+- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
+- [Football player Robot](https://github.com/Gholamrezadar/football-robot) B. Sc. Computer Architecture final project. a football player robot made using Raspberry Pi and OpenCV.
+- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus) A sample-based bokeh simulator that uses inverse tone-mapping and weighted sample averaging to produce a bokeh effect. 
+- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation) A simple kernel convolution based bokeh simulator.
+- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
+- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
+- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 
   
 🌐 Web Apps
-- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app)
-- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/)
-- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/)
-- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/)
-- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/)
+- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
+- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your youtube watch history file and produces a report of your favorites channels.
+- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
+- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 🌞 Computer Graphics
-- [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev)
-- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer)
-- [Circle Packing](https://github.com/Gholamrezadar/circle-packing)
-- [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube)
-- [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl)
+- [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
+- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
+- [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
+- [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
+- [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl) OpenGL starter project/template.
 
 🧠 Dumb Ideas
-- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors)
-- [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis)
-- [History Timeline](https://github.com/Gholamrezadar/history-timeline)
-- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment)
+- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
+- [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
+- [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
+- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
 
 🖋 Sketchies
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_)
