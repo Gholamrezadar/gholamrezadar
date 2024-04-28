@@ -105,8 +105,8 @@ I'm quite familiar with:
 🔧 Tools
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A python library with minimal and easy API to debug the running time of pieces of code.
 - [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images) A python tool for batch resizing of Images in a directory (very good for archiving images).
-- [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools)
-- [.dotfiles](https://github.com/Gholamrezadar/.dotfiles)
+- [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools) Some of my personal tools and scripts.
+- [.dotfiles](https://github.com/Gholamrezadar/.dotfiles) Linux dotfiles.
 
 </br>
 Find more info at http://gholamrezadar.ir
