@@ -27,6 +27,7 @@ I'm quite familiar with:
 </br>
 
 <!-- Github Stats -->
+<!--
 <p align="center">
   <!-- Github Stats -->
   <!--
@@ -43,21 +44,23 @@ I'm quite familiar with:
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholamrezadar&theme=github_dark&hide_border=true&langs_count=10&layout=compact&hide=jupyter%20notebook,PHP,Javascript" />
   </a>
   -->
+  <!--
 </p>
 </br>
+-->
 
 ## A list of Projects to check
 
 📸 Image Processing / CV
-- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises)
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises)
-- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition)
-- [Football player Robot](https://github.com/Gholamrezadar/football-robot)
-- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus)
-- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation)
-- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer)
-- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter)
-- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT)
+- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course.
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course.
+- [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
+- [Football player Robot](https://github.com/Gholamrezadar/football-robot) B. Sc. Computer Architecture final project. a football player robot made using Raspberry Pi and OpenCV.
+- [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus) A sample-based bokeh simulator that uses inverse tone-mapping and weighted sample averaging to produce a bokeh effect. 
+- [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation) A simple kernel convolution based bokeh simulator.
+- [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
+- [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
+- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 
   
 🌐 Web Apps
