@@ -110,5 +110,4 @@ I'm quite familiar with:
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools) Some of my personal tools and scripts.
 - [.dotfiles](https://github.com/Gholamrezadar/.dotfiles) Linux dotfiles.
 
-</br>
 Find more info at [https://gholamrezadar.ir](https://gholamrezadar.ir)
