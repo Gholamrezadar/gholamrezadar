@@ -60,30 +60,32 @@ I'm quite familiar with:
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation) A simple kernel convolution based bokeh simulator.
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
-- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 
-  
 🌐 Web Apps
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
 - [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
-- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your youtube watch history file and produces a report of your favorites channels.
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
 - [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
+
+🧠 ML/Deep Learning
+- [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
+- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
+- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 
 🌞 Computer Graphics
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
-- [GHDgl a barebone OpenGL template](https://github.com/Gholamrezadar/GHDgl) OpenGL starter project/template.
 
-🧠 Dumb Ideas
+❌🧠 Dumb Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
 - [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
 - [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
 
-🖋 Sketchies
+🖋 Sketches/Visualizations
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_) What is the best point to aim for in darts? Based on your accuracy.
 - [Car Steering Simulator](https://editor.p5js.org/Gholamrezadar/full/12JoH64Av) Simulate a steering vehicle and calculate the pivot of rotation.
 - [Pinhole Camera Simulator](https://editor.p5js.org/Gholamrezadar/full/s4RSnIkpm) Simulation of a simple Pinhole Camera. try dragging the elements around to see what happens!
@@ -103,17 +105,10 @@ I'm quite familiar with:
 - [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
 
 🔧 Tools
-- [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A python library with minimal and easy API to debug the running time of pieces of code.
-- [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images) A python tool for batch resizing of Images in a directory (very good for archiving images).
+- [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A Python library with minimal and easy API to debug the running time of pieces of code.
+- [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images) A Python tool for batch resizing of Images in a directory (very useful for archiving images).
 - [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools) Some of my personal tools and scripts.
 - [.dotfiles](https://github.com/Gholamrezadar/.dotfiles) Linux dotfiles.
 
 </br>
-Find more info at http://gholamrezadar.ir
-
-<!-- Github views -->
-<!--
-<p align="center">
-  <img src="https://gpvc.arturio.dev/gholamrezadar"/>
-</p>
--->
+Find more info at [https://gholamrezadar.ir](https://gholamrezadar.ir)
