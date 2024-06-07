@@ -56,6 +56,7 @@ I'm quite familiar with:
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course.
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
 - [Football player Robot](https://github.com/Gholamrezadar/football-robot) B. Sc. Computer Architecture final project. a football player robot made using Raspberry Pi and OpenCV.
+- [Grid Image Scanner](https://github.com/Gholamrezadar/grid-image-scanner) Scanning a grid photo using OpenCV and Python.
 - [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus) A sample-based bokeh simulator that uses inverse tone-mapping and weighted sample averaging to produce a bokeh effect. 
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation) A simple kernel convolution based bokeh simulator.
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
