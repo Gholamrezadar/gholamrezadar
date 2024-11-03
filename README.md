@@ -84,6 +84,7 @@ I'm quite familiar with:
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
 - [Midpoint Circle Drawing Algorithm Visualization](https://editor.p5js.org/Gholamrezadar/full/pDkBA1yhT) A p5*js sketch of midpoint algorithm for drawing circles
+- [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
 
 ❌🧠 Dumb Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
