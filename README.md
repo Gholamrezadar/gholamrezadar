@@ -93,6 +93,7 @@ I'm quite familiar with:
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
 
 🖋 Sketches/Visualizations
+- [Knight's Graph visualization](https://editor.p5js.org/Gholamrezadar/full/fBMBtFwV0) A visualization of the Knight's graph in chess.
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_) What is the best point to aim for in darts? Based on your accuracy.
 - [Car Steering Simulator](https://editor.p5js.org/Gholamrezadar/full/12JoH64Av) Simulate a steering vehicle and calculate the pivot of rotation.
 - [Pinhole Camera Simulator](https://editor.p5js.org/Gholamrezadar/full/s4RSnIkpm) Simulation of a simple Pinhole Camera. try dragging the elements around to see what happens!
