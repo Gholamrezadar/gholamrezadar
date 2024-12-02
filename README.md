@@ -51,6 +51,18 @@ I'm quite familiar with:
 
 ## A list of Projects to check
 
+🧠 AI/ML
+- [Conditional GAN MNSIT](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
+- [GAN MNIST](https://github.com/Gholamrezadar/GAN-MNIST) Simple FC GAN implementation for understanding how GANs are implemented and trained.
+- [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution. In this case how do they find the subset of R^2 where the data is drawn from.
+- [Face Keypoints detection](https://github.com/Gholamrezadar/facial_keypoints_detection) Detecting 68 keypoints on the human face using various deep learning models. (Experiment)
+- [Triangle Keypoints detection](https://github.com/Gholamrezadar/triangle_keypoints_detection) A toy example for experimenting with keypoint regression using a very simple handmade dataset.
+- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function. READ IT. it has nice pics.
+- [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
+- [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
+- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
+- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
+  
 📸 Image Processing / CV
 - [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course.
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course.
@@ -62,22 +74,6 @@ I'm quite familiar with:
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
 
-🌐 Web Apps
-- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
-- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
-- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
-- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
-- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
-
-🧠 ML/Deep Learning
-- [Face Keypoints detection](https://github.com/Gholamrezadar/facial_keypoints_detection) Detecting 68 keypoints on the human face using various deep learning models. (Experiment)
-- [Triangle Keypoints detection](https://github.com/Gholamrezadar/triangle_keypoints_detection) A toy example for experimenting with keypoint regression using a very simple handmade dataset.
-- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function. READ IT. it has nice pics.
-- [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
-- [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
-- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
-- [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
-
 🌞 Computer Graphics
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
@@ -86,13 +82,19 @@ I'm quite familiar with:
 - [Midpoint Circle Drawing Algorithm Visualization](https://editor.p5js.org/Gholamrezadar/full/pDkBA1yhT) A p5*js sketch of midpoint algorithm for drawing circles
 - [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
 
-❌🧠 Dumb Ideas
-- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
-- [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
-- [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
-- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
+🖋 Shaders
+- [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
+- [Acid Shader?!!!](https://www.shadertoy.com/view/dltSW4) Acid shader!
+- [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
+  
+🌐 Web Dev
+- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
+- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
+- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
+- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
-🖋 Sketches/Visualizations
+🖋 Visualizations
 - [Knight's Graph visualization](https://editor.p5js.org/Gholamrezadar/full/fBMBtFwV0) A visualization of the Knight's graph in chess.
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_) What is the best point to aim for in darts? Based on your accuracy.
 - [Car Steering Simulator](https://editor.p5js.org/Gholamrezadar/full/12JoH64Av) Simulate a steering vehicle and calculate the pivot of rotation.
@@ -109,11 +111,13 @@ I'm quite familiar with:
 - [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0) A 01-filled background!
 - [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/full/W07Ere8fG) Rasme dabirestan!
 
-🖋 Shaders
-- [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
-- [Acid Shader?!!!](https://www.shadertoy.com/view/dltSW4) Acid shader!
-- [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
 
+❌🧠 Dumb Ideas
+- [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
+- [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
+- [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
+- [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
+  
 🔧 Tools
 - [GHD Screenshot](https://github.com/Gholamrezadar/GHD-screenshot) A GUI application for efficiently taking region screenshots. better than Snipping tool!
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A Python library with minimal and easy API to debug the running time of pieces of code.
