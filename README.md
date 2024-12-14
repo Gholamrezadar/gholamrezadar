@@ -53,7 +53,7 @@ I'm quite familiar with:
 
 🧠 AI/ML
 - [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
-- [Conditional GAN MNSIT](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) Trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
+- [Conditional GAN MNIST](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) Trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
 - [GAN MNIST](https://github.com/Gholamrezadar/GAN-MNIST) Simple FC GAN implementation for understanding how GANs are implemented and trained.
 - [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution. In this case how do they find the subset of R^2 where the data is drawn from.
 - [Face Keypoints detection](https://github.com/Gholamrezadar/facial_keypoints_detection) Detecting 68 keypoints on the human face using various deep learning models. (Experiment)
