@@ -52,6 +52,7 @@ I'm quite familiar with:
 ## A list of Projects to check
 
 🧠 AI/ML
+- [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
 - [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
 - [Conditional GAN MNIST](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) Trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
 - [GAN MNIST](https://github.com/Gholamrezadar/GAN-MNIST) Simple FC GAN implementation for understanding how GANs are implemented and trained.
