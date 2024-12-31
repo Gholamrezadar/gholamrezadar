@@ -78,6 +78,7 @@ I'm quite familiar with:
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
 
 🌞 Computer Graphics
+- [GHDcode](https://github.com/Gholamrezadar/GHDcode) A featureless but fast text editor written in C++ using raylib.
 - [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
@@ -115,7 +116,6 @@ I'm quite familiar with:
 - [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0) A 01-filled background!
 - [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/full/W07Ere8fG) Rasme dabirestan!
 
-
 ❌🧠 Dumb Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
 - [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
@@ -123,10 +123,10 @@ I'm quite familiar with:
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
   
 🔧 Tools
-- [GHD Screenshot](https://github.com/Gholamrezadar/GHD-screenshot) A GUI application for efficiently taking region screenshots. better than Snipping tool!
+- [GHD Screenshot](https://github.com/Gholamrezadar/GHDscreenshot) A GUI application for efficiently taking region screenshots. better than Snipping tool!
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A Python library with minimal and easy API to debug the running time of pieces of code.
 - [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images) A Python tool for batch resizing of Images in a directory (very useful for archiving images).
-- [GHD Tools and Scripts](https://github.com/Gholamrezadar/ghd-tools) Some of my personal tools and scripts.
+- [GHD Tools and Scripts](https://github.com/Gholamrezadar/GHDtools) Some of my personal tools and scripts.
 - [.dotfiles](https://github.com/Gholamrezadar/.dotfiles) Linux dotfiles.
 
 Find more info at [https://gholamrezadar.ir](https://gholamrezadar.ir)
