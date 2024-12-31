@@ -49,7 +49,7 @@ I'm quite familiar with:
 </br>
 -->
 
-## A list of Projects to check
+## Projects
 
 🧠 AI/ML
 - [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
