@@ -68,7 +68,7 @@ I'm quite familiar with:
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 📝 AI/NLP
-- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my Natural Language Understanding course at AUT.
+- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my NLU course at AUT.
 - [DistilBERT for IMDB Sentiment Analysis](https://github.com/Gholamrezadar/distillbert-imdb) [🔗](https://huggingface.co/spaces/gholamreza/distilbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for Sentiment Analysis.
 - [Persian Poem Generation](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW4-PoemGeneration-GPT-T5) Fine-tuned GPT2 and T5 to generate Persian poems.
 - [Persian Question Answering](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW3-QuestionAnsweringPQuad) Fine-tuned DistilBERT and XLM-RoBERTa on the PQuAD dataset to answer Persian questions.
