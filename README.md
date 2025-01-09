@@ -51,27 +51,34 @@ I'm quite familiar with:
 
 ## Projects
 
-🧠 AI/ML
+🧠 AI/CV
 - [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
 - [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
-- [DistilBERT for IMDB Sentiment Analysis](https://github.com/Gholamrezadar/distillbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for sentiment analysis.
+- [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
 - [Neural Style Transfer](https://github.com/Gholamrezadar/neural-style-transfer-pytorch) A PyTorch Implementation of Neural Style Transfer. Transferring style from a painting to a photograph while keeping the content's of the photograph.
 - [Conditional GAN MNIST](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) Trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
 - [GAN MNIST](https://github.com/Gholamrezadar/GAN-MNIST) Simple FC GAN implementation for understanding how GANs are implemented and trained.
-- [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution. In this case how do they find the subset of R^2 where the data is drawn from.
 - [Face Keypoints detection](https://github.com/Gholamrezadar/facial_keypoints_detection) Detecting 68 keypoints on the human face using various deep learning models. (Experiment)
 - [Triangle Keypoints detection](https://github.com/Gholamrezadar/triangle_keypoints_detection) A toy example for experimenting with keypoint regression using a very simple handmade dataset.
-- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function. READ IT. it has nice pics.
-- [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
-- [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
-- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 - [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
+- [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution. In this case how do they find the subset of R^2 where the data is drawn from.
+- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function. READ IT. it has nice pics.
+- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
+- [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
+
+📝 AI/NLP
+- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my Natural Language Understanding course at AUT.
+- [DistilBERT for IMDB Sentiment Analysis](https://github.com/Gholamrezadar/distillbert-imdb) [🔗](https://huggingface.co/spaces/gholamreza/distilbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for Sentiment Analysis.
+- [Persian Poem Generation](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW4-PoemGeneration-GPT-T5) Fine-tuned GPT2 and T5 to generate Persian poems.
+- [Persian Question Answering](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW3-QuestionAnsweringPQuad) Fine-tuned DistilBERT and XLM-RoBERTa on the PQuAD dataset to answer Persian questions.
   
-📸 Image Processing / CV
-- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course.
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course.
+📸 Image Processing
+- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course at AUT.
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course at AUT.
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
+- [Road Lane Detection Github](https://github.com/Gholamrezadar/computer-vision-exercises?tab=readme-ov-file#exercise-2) Detecting road lanes from a low quality dashcam video feed using OpenCV by clustering HoughLines outputs based on angle.
+- [Face Morphing using Delaunay Triangulation](https://youtube.com/shorts/L_4-CcccTY8?si=EnSIkaIECMiOmarE) Morphing two faces by linearly interpolating the individual matching triangles between them.
 - [Football player Robot](https://github.com/Gholamrezadar/football-robot) B. Sc. Computer Architecture final project. a football player robot made using Raspberry Pi and OpenCV.
 - [Grid Image Scanner](https://github.com/Gholamrezadar/grid-image-scanner) Scanning a grid photo using OpenCV and Python.
 - [Bokeh Plus](https://github.com/Gholamrezadar/bokeh-plus) A sample-based bokeh simulator that uses inverse tone-mapping and weighted sample averaging to produce a bokeh effect. 
