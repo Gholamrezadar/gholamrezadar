@@ -52,6 +52,7 @@ I'm quite familiar with:
 ## Projects
 
 🧠 AI/CV
+- [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
 - [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
 - [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
