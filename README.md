@@ -73,6 +73,7 @@ I'm quite familiar with:
 - [DistilBERT for IMDB Sentiment Analysis](https://github.com/Gholamrezadar/distillbert-imdb) [🔗](https://huggingface.co/spaces/gholamreza/distilbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for Sentiment Analysis.
 - [Persian Poem Generation](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW4-PoemGeneration-GPT-T5) Fine-tuned GPT2 and T5 to generate Persian poems.
 - [Persian Question Answering](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW3-QuestionAnsweringPQuad) Fine-tuned DistilBERT and XLM-RoBERTa on the PQuAD dataset to answer Persian questions.
+- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
   
 📸 Image Processing
 - [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course at AUT.
