@@ -94,10 +94,15 @@ I'm quite familiar with:
 - [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
+- [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
+- [Simple Perspective Projection Cube](https://editor.p5js.org/Gholamrezadar/sketches/PHjIi-n2V) Simple Perspective Projection.
 - [Midpoint Circle Drawing Algorithm Visualization](https://editor.p5js.org/Gholamrezadar/full/pDkBA1yhT) A p5*js sketch of midpoint algorithm for drawing circles
 - [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
+
+Game Dev
+- [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
 
 🖋 Shaders
 - [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
@@ -105,6 +110,7 @@ I'm quite familiar with:
 - [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
 🌐 Web Dev
+- [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader)[🔗](https://ollama-direct-downloader.vercel.app/)) Get direct download links for ollama models for faster downloads.
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
 - [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
 - [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
@@ -112,6 +118,7 @@ I'm quite familiar with:
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 🖋 Visualizations
+- [Maze Generation Animation](https://editor.p5js.org/Gholamrezadar/full/47dhAu93X) Generating and animating a ball go through the maze using DFS.
 - [Knight's Graph visualization](https://editor.p5js.org/Gholamrezadar/full/fBMBtFwV0) A visualization of the Knight's graph in chess.
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_) What is the best point to aim for in darts? Based on your accuracy.
 - [Car Steering Simulator](https://editor.p5js.org/Gholamrezadar/full/12JoH64Av) Simulate a steering vehicle and calculate the pivot of rotation.
