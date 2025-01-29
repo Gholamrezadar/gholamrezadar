@@ -118,6 +118,7 @@ Game Dev
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 🖋 Visualizations
+- [Ball Moves Balls!](https://editor.p5js.org/Gholamrezadar/full/U2Y6pqS1M) Ball Moves Balls!
 - [Maze Generation Animation](https://editor.p5js.org/Gholamrezadar/full/47dhAu93X) Generating and animating a ball go through the maze using DFS.
 - [Knight's Graph visualization](https://editor.p5js.org/Gholamrezadar/full/fBMBtFwV0) A visualization of the Knight's graph in chess.
 - [Dart Score Simulator](https://editor.p5js.org/Gholamrezadar/full/dZpMEKDy_) What is the best point to aim for in darts? Based on your accuracy.
