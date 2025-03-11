@@ -101,7 +101,7 @@ I'm quite familiar with:
 - [Midpoint Circle Drawing Algorithm Visualization](https://editor.p5js.org/Gholamrezadar/full/pDkBA1yhT) A p5*js sketch of midpoint algorithm for drawing circles
 - [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
 
-Game Dev
+🕹 Game Dev
 - [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
 
 🖋 Shaders
@@ -110,6 +110,8 @@ Game Dev
 - [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
 🌐 Web Dev
+- [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh)[🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
+- [Spotify Widget Canvas](https://github.com/Gholamrezadar/spotify-widget-react-canvas)[🔗](https://spotify-widget-canvas.vercel.app/) Recreating the Spotify/Samsung music widget using canvas.
 - [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader)[🔗](https://ollama-direct-downloader.vercel.app/)) Get direct download links for ollama models for faster downloads.
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
 - [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
