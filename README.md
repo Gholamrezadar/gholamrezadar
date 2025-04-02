@@ -110,6 +110,7 @@ I'm quite familiar with:
 - [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
 🌐 Web Dev
+- [GHDratings](https://github.com/Gholamrezadar/GHDratings)[🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
 - [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh)[🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
 - [Spotify Widget Canvas](https://github.com/Gholamrezadar/spotify-widget-react-canvas)[🔗](https://spotify-widget-canvas.vercel.app/) Recreating the Spotify/Samsung music widget using canvas.
 - [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader)[🔗](https://ollama-direct-downloader.vercel.app/) Get direct download links for ollama models for faster downloads.
