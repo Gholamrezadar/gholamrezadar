@@ -102,6 +102,7 @@ I'm quite familiar with:
 - [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
 
 🕹 Game Dev
+- [Balatro Card Movement](https://editor.p5js.org/Gholamrezadar/full/jbCjv4xEs) Recreating Balatro's card drag effect.
 - [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
 
 🖋 Shaders
