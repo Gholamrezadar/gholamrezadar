@@ -15,13 +15,13 @@
 I'm familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,go,cpp" />
     </br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
     </br>
     <img src="https://skillicons.dev/icons?i=ps,ae,blender,unity" />
     </br>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,neovim,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,neovim,latex" />
   </a>
 </p>
 </br>
