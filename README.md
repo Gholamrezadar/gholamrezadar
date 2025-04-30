@@ -1,7 +1,7 @@
 <!-- Intro -->
 <p align="center">
   <h2 align="center"> Hi, My name is  <b>Gholamreza Dar</b>. </h2>
-  <div align="center">I'm currently studying for a Master's degree in <i>Artificial Intelligence</i> at <i>Amirkabir University of Tehran</i>.</div>
+  <div align="center">I'm Software Enginner with a Master's degree in <i>Artificial Intelligence</i> from <i>Amirkabir University of Tehran</i>.</div>
 </p>
 
 <!-- Socials -->
@@ -12,7 +12,7 @@
 </br>
 
 <!-- Skill Icons -->
-I'm quite familiar with:
+I'm familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp" />
@@ -52,6 +52,7 @@ I'm quite familiar with:
 ## Projects
 
 🧠 AI/CV
+- [Image Captioning using Ollama](https://github.com/Gholamrezadar/ollama-image-captioning) Captions images using Ollama and a multimodal model like Gemma3:4b.
 - [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
 - [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
@@ -90,6 +91,18 @@ I'm quite familiar with:
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
 
+🌐 Web Dev
+- [Music Note Transformer](https://github.com/Gholamrezadar/music-note-transformer/)[🔗](https://music-note-transformer.vercel.app/) Transforms piano music notes to https://www.onlinepianist.com/virtual-piano format.
+- [GHDratings](https://github.com/Gholamrezadar/GHDratings)[🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
+- [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh)[🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
+- [Spotify Widget Canvas](https://github.com/Gholamrezadar/spotify-widget-react-canvas)[🔗](https://spotify-widget-canvas.vercel.app/) Recreating the Spotify/Samsung music widget using canvas.
+- [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader)[🔗](https://ollama-direct-downloader.vercel.app/) Get direct download links for ollama models for faster downloads.
+- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
+- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
+- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
+- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
+- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
+
 🌞 Computer Graphics
 - [GHDcode](https://github.com/Gholamrezadar/GHDcode) A featureless but fast text editor written in C++ using raylib.
 - [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
@@ -108,22 +121,13 @@ I'm quite familiar with:
 - [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
 
 🖋 Shaders
+- [Raymarching Simple Shapes GLSL](https://www.shadertoy.com/view/WXsSDj) A Simple Raymarching Shader.
 - [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
 - [Acid Shader?!!!](https://www.shadertoy.com/view/dltSW4) Acid shader!
 - [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
-🌐 Web Dev
-- [GHDratings](https://github.com/Gholamrezadar/GHDratings)[🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
-- [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh)[🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
-- [Spotify Widget Canvas](https://github.com/Gholamrezadar/spotify-widget-react-canvas)[🔗](https://spotify-widget-canvas.vercel.app/) Recreating the Spotify/Samsung music widget using canvas.
-- [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader)[🔗](https://ollama-direct-downloader.vercel.app/) Get direct download links for ollama models for faster downloads.
-- [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
-- [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
-- [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
-- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
-- [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
-
 🖋 Visualizations
+- [Snell's Law Simulation + Bezier Curves](https://editor.p5js.org/Gholamrezadar/full/oZ0V6oO_0) Simulating light rays hitting a lens of arbitrary shape.
 - [Ball Moves Balls!](https://editor.p5js.org/Gholamrezadar/full/U2Y6pqS1M) Ball Moves Balls!
 - [Maze Generation Animation](https://editor.p5js.org/Gholamrezadar/full/47dhAu93X) Generating and animating a ball go through the maze using DFS.
 - [Knight's Graph visualization](https://editor.p5js.org/Gholamrezadar/full/fBMBtFwV0) A visualization of the Knight's graph in chess.
