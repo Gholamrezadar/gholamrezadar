@@ -51,7 +51,7 @@ I'm familiar with:
 
 ## Projects
 
-🧠 AI/CV
+🧠 AI/Vision
 - [Image Captioning using Ollama](https://github.com/Gholamrezadar/ollama-image-captioning) Captions images using Ollama and a multimodal model like Gemma3:4b.
 - [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
 - [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
