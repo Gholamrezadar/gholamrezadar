@@ -93,11 +93,11 @@ I'm familiar with:
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
 
 🌐 Web Dev
-- [Music Note Transformer](https://github.com/Gholamrezadar/music-note-transformer/)[🔗](https://music-note-transformer.vercel.app/) Transforms piano music notes to https://www.onlinepianist.com/virtual-piano format.
-- [GHDratings](https://github.com/Gholamrezadar/GHDratings)[🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
-- [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh)[🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
-- [Spotify Widget Canvas](https://github.com/Gholamrezadar/spotify-widget-react-canvas)[🔗](https://spotify-widget-canvas.vercel.app/) Recreating the Spotify/Samsung music widget using canvas.
-- [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader)[🔗](https://ollama-direct-downloader.vercel.app/) Get direct download links for ollama models for faster downloads.
+- [Music Note Transformer](https://github.com/Gholamrezadar/music-note-transformer/) [🔗](https://music-note-transformer.vercel.app/) Transforms piano music notes to https://www.onlinepianist.com/virtual-piano format.
+- [GHDratings](https://github.com/Gholamrezadar/GHDratings) [🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
+- [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh) [🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
+- [Spotify Widget Canvas](https://github.com/Gholamrezadar/spotify-widget-react-canvas) [🔗](https://spotify-widget-canvas.vercel.app/) Recreating the Spotify/Samsung music widget using canvas.
+- [Ollama Direct Downloader](https://github.com/Gholamrezadar/ollama-direct-downloader) [🔗](https://ollama-direct-downloader.vercel.app/) Get direct download links for ollama models for faster downloads.
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
 - [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
 - [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
