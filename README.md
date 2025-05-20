@@ -70,6 +70,7 @@ I'm familiar with:
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 📝 AI/NLP
+- [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
 - [AI File Renamer](https://github.com/Gholamrezadar/ai-renamer) A Python script that generates a descriptive name for a file based on its content using AI.
 - [Finetune Llama-3.2-3B on Text2SQL](https://github.com/Gholamrezadar/finetune-llama-3.2-qlora-text2sql) Fine-tuned Llama-3.2-3B using Parameter Efficient Fine Tuning (PEFT) and QLoRA, improving it’s output on a structured output required application.
