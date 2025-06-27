@@ -1,7 +1,7 @@
 <!-- Intro -->
 <p align="center">
   <h2 align="center"> Hi, My name is  <b>Gholamreza Dar</b>. </h2>
-  <div align="center">I'm Software Engineer with a Master's degree in <i>Artificial Intelligence</i> from <i>Amirkabir University of Tehran</i>.</div>
+  <div align="center">I'm a Software Engineer with a Master's degree in <i>Artificial Intelligence</i> from <i>Amirkabir University of Technology</i>.</div>
 </p>
 
 <!-- Socials -->
