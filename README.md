@@ -106,6 +106,7 @@ I'm familiar with:
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 🌞 Computer Graphics
+- [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
 - [GHDcode](https://github.com/Gholamrezadar/GHDcode) A featureless but fast text editor written in C++ using raylib.
 - [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl/tree/dev) My OpenGL experimentation and learning sandbox.
