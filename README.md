@@ -94,6 +94,7 @@ I'm familiar with:
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
 
 🌐 Web Dev
+- [Github Direct Downloader](https://github.com/Gholamrezadar/github-direct-downloader)[🔗](https://github-direct-downloader.vercel.app/) Want to download a just one folder or a single file from a Github repo?
 - [Music Note Transformer](https://github.com/Gholamrezadar/music-note-transformer/) [🔗](https://music-note-transformer.vercel.app/) Transforms piano music notes to https://www.onlinepianist.com/virtual-piano format.
 - [GHDratings](https://github.com/Gholamrezadar/GHDratings) [🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
 - [GHDvarzesh](https://github.com/Gholamrezadar/ghdvarzesh) [🔗](https://ghdvarzesh.vercel.app/) A more modern and accessible frontend for varzesh3.com
