@@ -96,12 +96,11 @@
 - [Digital Circuits Lab: RFID Scanner](https://github.com/Gholamrezadar/RFID_Scanner) RFID Scanner hardware project for my "Az madar" course at SBUK.
 
 🌞 Computer Graphics
-- [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
 - [GHDcode](https://github.com/Gholamrezadar/GHDcode) A featureless but fast text editor written in C++ using raylib.
-- [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
+- [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
+- [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
-- [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
 - [Simple Perspective Projection Cube](https://editor.p5js.org/Gholamrezadar/sketches/PHjIi-n2V) Simple Perspective Projection.
@@ -135,6 +134,7 @@
 - [Curved Card Deck](https://editor.p5js.org/Gholamrezadar/full/HXQisP5-g) A curved card deck.
 - [Balatro Card Movement](https://editor.p5js.org/Gholamrezadar/full/jbCjv4xEs) Recreating Balatro's card drag effect.
 - [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
+- [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
 
 🖋 Shaders
 - [Raymarching Simple Shapes GLSL](https://www.shadertoy.com/view/WXsSDj) A Simple Raymarching Shader.
