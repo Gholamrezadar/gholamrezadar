@@ -49,6 +49,13 @@
 </br>
 -->
 
+<!--
+## Top Repos
+- [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) 40+ stars
+- [Github Direct Downloader](https://github.com/Gholamrezadar/github-direct-downloader)[🔗](https://github-direct-downloader.vercel.app/) 35+ stars
+- [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) 15+ stars
+-->
+
 ## Projects
 
 🧠 AI/Vision
