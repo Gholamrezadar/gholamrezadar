@@ -58,14 +58,14 @@
 - [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
 - [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
 - [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
-- [Neural Style Transfer](https://github.com/Gholamrezadar/neural-style-transfer-pytorch) A PyTorch Implementation of Neural Style Transfer. Transferring style from a painting to a photograph while keeping the content's of the photograph.
+- [Neural Style Transfer](https://github.com/Gholamrezadar/neural-style-transfer-pytorch) A PyTorch Implementation of Neural Style Transfer.
 - [Conditional GAN MNIST](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) Trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
 - [GAN MNIST](https://github.com/Gholamrezadar/GAN-MNIST) Simple FC GAN implementation for understanding how GANs are implemented and trained.
 - [Face Keypoints detection](https://github.com/Gholamrezadar/facial_keypoints_detection) Detecting 68 keypoints on the human face using various deep learning models. (Experiment)
 - [Triangle Keypoints detection](https://github.com/Gholamrezadar/triangle_keypoints_detection) A toy example for experimenting with keypoint regression using a very simple handmade dataset.
 - [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 - [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution.
-- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function. Read it! it has nice pics.
+- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function.
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
