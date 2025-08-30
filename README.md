@@ -74,15 +74,41 @@ I'm familiar with:
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
 - [AI File Renamer](https://github.com/Gholamrezadar/ai-renamer) A Python script that generates a descriptive name for a file based on its content using AI.
 - [Finetune Llama-3.2-3B on Text2SQL](https://github.com/Gholamrezadar/finetune-llama-3.2-qlora-text2sql) Fine-tuned Llama-3.2-3B using Parameter Efficient Fine Tuning (PEFT) and QLoRA, improving it’s output on a structured output required application.
-- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my NLU course at AUT.
 - [DistilBERT for IMDB Sentiment Analysis](https://github.com/Gholamrezadar/distillbert-imdb) [🔗](https://huggingface.co/spaces/gholamreza/distilbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for Sentiment Analysis.
 - [Persian Poem Generation](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW4-PoemGeneration-GPT-T5) Fine-tuned GPT2 and T5 to generate Persian poems.
 - [Persian Question Answering](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW3-QuestionAnsweringPQuad) Fine-tuned DistilBERT and XLM-RoBERTa on the PQuAD dataset to answer Persian questions.
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
-  
+
+🎓 University Courses
+- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my "CV" course at AUT.
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my "DIP" course at AUT.
+- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my "NLU" course at AUT.
+- [Neural Networks Exercises](https://github.com/Gholamrezadar/neural-networks-exercises) Repository containing homework assignments for my "DNN" course at AUT.
+- [Machine Learning Exercises](https://github.com/Gholamrezadar/machine-learning-exercises-new) Repository containing homework assignments for my "ML" course at AUT.
+- [Applied Linear Algebra Exercices](https://github.com/Gholamrezadar/applied-linear-algebra-exercises) Repository containing homework assignments for my "Linalg" course at AUT.
+- [Statistical Pattern Recognition](https://github.com/Gholamrezadar/statistical-pattern-recognition-exercises) Repository containing homework assignments for my "SPR" course at AUT.
+- [Convex Optimizations](https://github.com/Gholamrezadar/convex-optimization-exercises) Repository containing homework assignments for my "Convex" course at AUT.
+- [Computer Organization: Soccer robot](https://github.com/Gholamrezadar/Soccer-Player-Robot) Soccer player robot using raspberry pi 3 for my "Memari" course at SBUK.
+- [Operating Systems: LRU Policy](https://github.com/Gholamrezadar/LRU-Policy) LRU policy visualization for "OS" course at SBUK.
+- [Operating Systems: Bankers' Algorithm](https://github.com/Gholamrezadar/Bankers-Algorithm) Bankers' Algorithm visualization for "OS" course at SBUK.
+- [Adv. Programming: Konkur](https://github.com/Gholamrezadar/Konkur) Education Institute Project using C# and WPF for my "Adv. Prog." course at SBUK.
+- [Algorithm Design: Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) Triomino Tiling Divide & Conquer Visualization for my "Algo" course at SBUK.
+- [Digital Circuits Lab: RFID Scanner](https://github.com/Gholamrezadar/RFID_Scanner) RFID Scanner hardware project for my "Az madar" course at SBUK.
+
+🌞 Computer Graphics
+- [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
+- [GHDcode](https://github.com/Gholamrezadar/GHDcode) A featureless but fast text editor written in C++ using raylib.
+- [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
+- [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
+- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
+- [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
+- [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
+- [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
+- [Simple Perspective Projection Cube](https://editor.p5js.org/Gholamrezadar/sketches/PHjIi-n2V) Simple Perspective Projection.
+- [Midpoint Circle Drawing Algorithm Visualization](https://editor.p5js.org/Gholamrezadar/full/pDkBA1yhT) A p5*js sketch of midpoint algorithm for drawing circles
+- [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
+
 📸 Image Processing
-- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my Computer Vision course at AUT.
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my Digital Image Processing course at AUT.
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
 - [Road Lane Detection Github](https://github.com/Gholamrezadar/computer-vision-exercises?tab=readme-ov-file#exercise-2) Detecting road lanes from a low quality dashcam video feed using OpenCV by clustering HoughLines outputs based on angle.
 - [Face Morphing using Delaunay Triangulation](https://youtube.com/shorts/L_4-CcccTY8?si=EnSIkaIECMiOmarE) Morphing two faces by linearly interpolating the individual matching triangles between them.
@@ -103,21 +129,7 @@ I'm familiar with:
 - [GHD Snippets website](https://github.com/Gholamrezadar/ghd-snippets-next) [🔗](http://ghd-snippets.vercel.app) A web app for managing my personal Python/ML code snippets.
 - [GHD Notebook to Py](https://github.com/Gholamrezadar/notebook-to-py/tree/main) [🔗](https://notebook-to-py.vercel.app/) A web-app for converting .ipynb files to .py files + a few other features e.g. only saving marked cells.
 - [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
-- [Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) [🔗](https://gholamrezadar.github.io/Triomino-Tiling/) An Interactive divide and conquer implementation for tiling a plane using triominos (L shape tiles).
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
-
-🌞 Computer Graphics
-- [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
-- [GHDcode](https://github.com/Gholamrezadar/GHDcode) A featureless but fast text editor written in C++ using raylib.
-- [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
-- [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
-- [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
-- [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
-- [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
-- [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
-- [Simple Perspective Projection Cube](https://editor.p5js.org/Gholamrezadar/sketches/PHjIi-n2V) Simple Perspective Projection.
-- [Midpoint Circle Drawing Algorithm Visualization](https://editor.p5js.org/Gholamrezadar/full/pDkBA1yhT) A p5*js sketch of midpoint algorithm for drawing circles
-- [Triangle Rasterization Visualization](https://editor.p5js.org/Gholamrezadar/full/jq40qGDCr) A p5*js sketch of naive triangle rasterization using super sampling.
 
 🕹 Game Dev
 - [Curved Card Deck](https://editor.p5js.org/Gholamrezadar/full/HXQisP5-g) A curved card deck.
@@ -127,8 +139,8 @@ I'm familiar with:
 🖋 Shaders
 - [Raymarching Simple Shapes GLSL](https://www.shadertoy.com/view/WXsSDj) A Simple Raymarching Shader.
 - [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
-- [Acid Shader?!!!](https://www.shadertoy.com/view/dltSW4) Acid shader!
-- [Chromatic aberration lookin star!](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
+- [Shader?!!!](https://www.shadertoy.com/view/dltSW4) Shader!
+- [Star with Chromatic abberation](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
 🖋 Visualizations
 - [Snell's Law Simulation + Bezier Curves](https://editor.p5js.org/Gholamrezadar/full/oZ0V6oO_0) Simulating light rays hitting a lens of arbitrary shape.
