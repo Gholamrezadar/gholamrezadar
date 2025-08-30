@@ -12,7 +12,7 @@
 </br>
 
 <!-- Skill Icons -->
-I'm familiar with:
+<!-- I'm familiar with: -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,go,cpp" />
