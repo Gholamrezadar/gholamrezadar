@@ -143,6 +143,7 @@
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 🕹 Game Dev
+- [Hollow Knight Clone](https://github.com/Gholamrezadar/hollow-knight-clone) HK clone in Godot (Slow WIP).
 - [Curved Card Deck](https://editor.p5js.org/Gholamrezadar/full/HXQisP5-g) A curved card deck.
 - [Balatro Card Movement](https://editor.p5js.org/Gholamrezadar/full/jbCjv4xEs) Recreating Balatro's card drag effect.
 - [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
