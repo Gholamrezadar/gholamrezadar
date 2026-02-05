@@ -59,11 +59,12 @@
 ## Projects
 
 🧠 AI/Vision
-- [Image Captioning using Ollama](https://github.com/Gholamrezadar/ollama-image-captioning) Captions images using Ollama and a multimodal model like Gemma3:4b.
-- [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
-- [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
+- [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
+- [Persian CAPTCHA OCR](https://github.com/Gholamrezadar/persian_captcha_ocr) Training a CNN-LSTM model to predict text on persian CAPTCHA.
+- [Image Captioning using Ollama](https://github.com/Gholamrezadar/ollama-image-captioning) Captions images using Ollama and a multimodal model like Gemma3:4b.
 - [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
+- [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
 - [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
 - [Neural Style Transfer](https://github.com/Gholamrezadar/neural-style-transfer-pytorch) A PyTorch Implementation of Neural Style Transfer.
 - [Conditional GAN MNIST](https://github.com/Gholamrezadar/Conditional-GAN-MNIST) Trying to understand how a condition vector can be used to control which subset of the training data should the generator sample from using a single model, as opposed to creating a seperate model for every subset of training data.
