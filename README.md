@@ -59,11 +59,11 @@
 ## Projects
 
 🧠 AI/Vision
-- [Persian License Plate Recognition YoLo 11](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
-- [Poker Hand Detection and Analysis YoLo 11](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
+- [Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
+- [Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [Persian CAPTCHA OCR](https://github.com/Gholamrezadar/persian_captcha_ocr) Training a CNN-LSTM model to predict text on persian CAPTCHA.
 - [Image Captioning using Ollama](https://github.com/Gholamrezadar/ollama-image-captioning) Captions images using Ollama and a multimodal model like Gemma3:4b.
-- [Rock Paper Scissor Detection YoLo 11](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
+- [Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
 - [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
 - [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
 - [Neural Style Transfer](https://github.com/Gholamrezadar/neural-style-transfer-pytorch) A PyTorch Implementation of Neural Style Transfer.
@@ -73,7 +73,6 @@
 - [Triangle Keypoints detection](https://github.com/Gholamrezadar/triangle_keypoints_detection) A toy example for experimenting with keypoint regression using a very simple handmade dataset.
 - [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 - [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution.
-
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 📝 AI/NLP
