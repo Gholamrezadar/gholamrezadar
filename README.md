@@ -59,11 +59,11 @@
 ## Projects
 
 🧠 AI/Vision
-- [YOLO11 Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
-- [YOLO11 Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
+- [Persian License Plate Recognition YoLo 11](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
+- [Poker Hand Detection and Analysis YoLo 11](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [Persian CAPTCHA OCR](https://github.com/Gholamrezadar/persian_captcha_ocr) Training a CNN-LSTM model to predict text on persian CAPTCHA.
 - [Image Captioning using Ollama](https://github.com/Gholamrezadar/ollama-image-captioning) Captions images using Ollama and a multimodal model like Gemma3:4b.
-- [YOLO11 Rock Paper Scissor Detection](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
+- [Rock Paper Scissor Detection YoLo 11](https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection) Detect and classify hand gestures of the rock paper scissors game by fine-tuning yolo11.
 - [Football Juggle Counter](https://github.com/Gholamrezadar/football-juggle-counter) Counting the number of times a player juggles the ball using YOLO object detection.
 - [Chess Piece Classification (Notebook)](https://colab.research.google.com/drive/1PCrSGmPi8i_h-OLC3PiESpEyC1v2k2JL?usp=sharing) Fine-tuning EfficientNet on a Chess Piece Dataset.
 - [Neural Style Transfer](https://github.com/Gholamrezadar/neural-style-transfer-pytorch) A PyTorch Implementation of Neural Style Transfer.
@@ -73,19 +73,19 @@
 - [Triangle Keypoints detection](https://github.com/Gholamrezadar/triangle_keypoints_detection) A toy example for experimenting with keypoint regression using a very simple handmade dataset.
 - [Interactive Segmentation](https://github.com/Gholamrezadar/interactive-segmentation-ViT) Interactive segmentation script using SAM model.
 - [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution.
-- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function.
-- [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
+
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 📝 AI/NLP
-- [Multiclass Text Classification DistilBERT+LoRA](https://github.com/Gholamrezadar/finetuning_distilbert_agnews_multiclass_lora_and_full) A nice starting point to do multiclass text classification using BERT-like models. + LoRA
-- [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
+- [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
 - [AI File Renamer](https://github.com/Gholamrezadar/ai-renamer) A Python script that generates a descriptive name for a file based on its content using AI.
 - [Finetune Llama-3.2-3B on Text2SQL](https://github.com/Gholamrezadar/finetune-llama-3.2-qlora-text2sql) Fine-tuned Llama-3.2-3B using Parameter Efficient Fine Tuning (PEFT) and QLoRA.
-- [DistilBERT for IMDB Sentiment Analysis](https://github.com/Gholamrezadar/distillbert-imdb) [🔗](https://huggingface.co/spaces/gholamreza/distilbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for Sentiment Analysis.
+- [Multiclass Text Classification DistilBERT+LoRA+AGNews](https://github.com/Gholamrezadar/finetuning_distilbert_agnews_multiclass_lora_and_full) A nice starting point to do multiclass text classification using BERT-like models. + LoRA
+- [Binary Text Classification DistilBERT+IMDB](https://github.com/Gholamrezadar/distillbert-imdb) [🔗](https://huggingface.co/spaces/gholamreza/distilbert-imdb) Fine-tuning DistilBERT on imdb reviews dataset for Sentiment Analysis.
 - [Persian Poem Generation](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW4-PoemGeneration-GPT-T5) Fine-tuned GPT2 and T5 to generate Persian poems.
 - [Persian Question Answering](https://github.com/Gholamrezadar/natural-language-understanding-exercises/tree/main/HW3-QuestionAnsweringPQuad) Fine-tuned DistilBERT and XLM-RoBERTa on the PQuAD dataset to answer Persian questions.
+- [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function.
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
 🎓 University Courses
