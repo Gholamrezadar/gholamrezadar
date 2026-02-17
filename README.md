@@ -15,7 +15,7 @@
 <!-- I'm familiar with: -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,go,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,qt,cpp" />
     </br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
     </br>
@@ -78,6 +78,7 @@
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 📝 AI/NLP
+- [Multiclass Text Classification DistilBERT+LoRA](https://github.com/Gholamrezadar/finetuning_distilbert_agnews_multiclass_lora_and_full) A nice starting point to do multiclass text classification using BERT-like models. + LoRA
 - [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
 - [AI File Renamer](https://github.com/Gholamrezadar/ai-renamer) A Python script that generates a descriptive name for a file based on its content using AI.
