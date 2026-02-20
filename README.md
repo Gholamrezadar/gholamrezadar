@@ -57,8 +57,24 @@
 -->
 
 ## Projects
+<div align="center">
 
-🧠 AI/Vision
+[AI/Vision](#-aivision) &nbsp;|&nbsp;
+[AI/NLP](#-ainlp) &nbsp;|&nbsp;
+[Computer Graphics](#-computer-graphics) &nbsp;|&nbsp;
+[Image Processing](#-image-processing) &nbsp;|&nbsp;
+[Desktop Apps](#%EF%B8%8F-desktop-apps) &nbsp;|&nbsp;
+[Web Dev](#-web-dev) &nbsp;|&nbsp;
+[Game Dev](#-game-dev) &nbsp;|&nbsp;
+[Shaders](#-shaders) &nbsp;|&nbsp;
+[Visualizations](#-visualizations) &nbsp;|&nbsp;
+[Random Ideas](#-random-ideas) &nbsp;|&nbsp;
+[University Courses](#-university-courses) &nbsp;|&nbsp;
+[Tools](#-tools)
+
+</div>
+  
+#### 🧠 AI/Vision
 - [Persian License Plate Recognition](https://github.com/Gholamrezadar/yolo11-persian-license-plate-recognition) Detect and Recognize persian license plates using yolo11 and opencv.
 - [Poker Hand Detection and Analysis](https://github.com/Gholamrezadar/yolo11-poker-hand-detection-and-analysis/) Finetuning YOLO11 on a playing card dataset to detect and analyze poker hands.
 - [Persian CAPTCHA OCR](https://github.com/Gholamrezadar/persian_captcha_ocr) Training a CNN-LSTM model to predict text on persian CAPTCHA.
@@ -75,7 +91,7 @@
 - [2D GAN Experiment](https://github.com/Gholamrezadar/GAN-2D-data) Trying to understand how GANs find training data's underlying distribution.
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
-📝 AI/NLP
+#### 📝 AI/NLP
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
 - [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
 - [AI File Renamer](https://github.com/Gholamrezadar/ai-renamer) A Python script that generates a descriptive name for a file based on its content using AI.
@@ -87,7 +103,7 @@
 - [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function.
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
-🌞 Computer Graphics
+#### 🌞 Computer Graphics
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
 - [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
 - [OpenGL Advanced Bloom](https://github.com/Gholamrezadar/opengl_advanced_bloom) A modern bloom effect in OpenGL
@@ -106,7 +122,7 @@
 - [minigl Hello Cube](https://github.com/Gholamrezadar/minigl-hello-cube) A minimal opengl hello cube boilerplate project (CMake)
 - [Raylib + imgui boilerplate](https://github.com/Gholamrezadar/raylib_imgui_example) A boilerplate project for using imgui with Raylib (CMake)
 
-📸 Image Processing
+#### 📸 Image Processing
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
 - [Road Lane Detection Github](https://github.com/Gholamrezadar/computer-vision-exercises?tab=readme-ov-file#exercise-2) Detecting road lanes from a low quality dashcam video feed using OpenCV by clustering HoughLines outputs based on angle.
 - [Face Morphing using Delaunay Triangulation](https://youtube.com/shorts/L_4-CcccTY8?si=EnSIkaIECMiOmarE) Morphing two faces by linearly interpolating the individual matching triangles between them.
@@ -117,11 +133,11 @@
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
 
-Desktop Apps
+#### 🖥️ Desktop Apps
 - [GHD Game Launcher](https://github.com/Gholamrezadar/ghd_game_launcher) An offline launcher for Games and Applications made with Qt and QML.
 - [GHDcode](https://github.com/Gholamrezadar/GHDcode) A simple text editor written in C++ using raylib.
 
-🌐 Web Dev
+#### 🌐 Web Dev
 - [Github Direct Downloader](https://github.com/Gholamrezadar/github-direct-downloader)[🔗](https://github-direct-downloader.vercel.app/) Want to download a just one folder or a single file from a Github repo?
 - [Music Note Transformer](https://github.com/Gholamrezadar/music-note-transformer/) [🔗](https://music-note-transformer.vercel.app/) Transforms piano music notes to https://www.onlinepianist.com/virtual-piano format.
 - [GHDratings](https://github.com/Gholamrezadar/GHDratings) [🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
@@ -133,20 +149,20 @@ Desktop Apps
 - [Favourite Youtube Channels Extractor](https://github.com/Gholamrezadar/favourite-youtube-channels-next) [🔗](https://ghdyt.vercel.app/) A web app that analyzes your YouTube watch history file and produces a report of your favorites channels.
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
-🕹 Game Dev
+#### 🕹 Game Dev
 - [Hollow Knight Clone](https://github.com/Gholamrezadar/hollow-knight-clone) HK clone in Godot (Slow WIP).
 - [Curved Card Deck](https://editor.p5js.org/Gholamrezadar/full/HXQisP5-g) A curved card deck.
 - [Balatro Card Movement](https://editor.p5js.org/Gholamrezadar/full/jbCjv4xEs) Recreating Balatro's card drag effect.
 - [Ball Roll Game](https://github.com/Gholamrezadar/ball-roll-game-unity) A simple Ball rolling game made with Unity.
 - [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
 
-🖋 Shaders
+#### 🖋 Shaders
 - [Raymarching Simple Shapes GLSL](https://www.shadertoy.com/view/WXsSDj) A Simple Raymarching Shader.
 - [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
 - [Shader?!!!](https://www.shadertoy.com/view/dltSW4) Shader!
 - [Star with Chromatic abberation](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
-🖋 Visualizations
+#### 🖋 Visualizations
 - [Snell's Law Simulation + Bezier Curves](https://editor.p5js.org/Gholamrezadar/full/oZ0V6oO_0) Simulating light rays hitting a lens of arbitrary shape.
 - [Ball Moves Balls!](https://editor.p5js.org/Gholamrezadar/full/U2Y6pqS1M) Ball Moves Balls!
 - [Maze Generation Animation](https://editor.p5js.org/Gholamrezadar/full/47dhAu93X) Generating and animating a ball go through the maze using DFS.
@@ -161,13 +177,13 @@ Desktop Apps
 - [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0) A 01-filled background!
 - [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/full/W07Ere8fG) Rasme dabirestan!
 
-❌🧠 Random Ideas
+#### ❌🧠 Random Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
 - [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
 - [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
 
-🎓 University Courses
+#### 🎓 University Courses
 - [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my "CV" course at AUT.
 - [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my "DIP" course at AUT.
 - [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my "NLU" course at AUT.
@@ -183,7 +199,7 @@ Desktop Apps
 - [Algorithm Design: Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) Triomino Tiling Divide & Conquer Visualization for my "Algo" course at SBUK.
 - [Digital Circuits Lab: RFID Scanner](https://github.com/Gholamrezadar/RFID_Scanner) RFID Scanner hardware project for my "Az madar" course at SBUK.
 
-🔧 Tools
+#### 🔧 Tools
 - [Recursive video encoder](https://github.com/Gholamrezadar/recursive_video_encoder/) Recursively encode videos in a base folder while keeping the folder structure intact (useful for compressing video courses)
 - [Houdini Node Analyzer](https://github.com/Gholamrezadar/houdini_node_analyzer/) Finding the most used nodes across many Houdini files
 - [CF Rating Badge Extension](https://github.com/Gholamrezadar/cf_rating_badge_extension) (Chrome Extension) Displays a rating badge beside problems in codeforces
