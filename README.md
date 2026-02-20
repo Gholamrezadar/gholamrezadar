@@ -87,27 +87,11 @@
 - [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function.
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
-🎓 University Courses
-- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my "CV" course at AUT.
-- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my "DIP" course at AUT.
-- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my "NLU" course at AUT.
-- [Neural Networks Exercises](https://github.com/Gholamrezadar/neural-networks-exercises) Repository containing homework assignments for my "DNN" course at AUT.
-- [Machine Learning Exercises](https://github.com/Gholamrezadar/machine-learning-exercises-new) Repository containing homework assignments for my "ML" course at AUT.
-- [Applied Linear Algebra Exercices](https://github.com/Gholamrezadar/applied-linear-algebra-exercises) Repository containing homework assignments for my "Linalg" course at AUT.
-- [Statistical Pattern Recognition](https://github.com/Gholamrezadar/statistical-pattern-recognition-exercises) Repository containing homework assignments for my "SPR" course at AUT.
-- [Convex Optimizations](https://github.com/Gholamrezadar/convex-optimization-exercises) Repository containing homework assignments for my "Convex" course at AUT.
-- [Computer Organization: Soccer robot](https://github.com/Gholamrezadar/Soccer-Player-Robot) Soccer player robot using raspberry pi 3 for my "Memari" course at SBUK.
-- [Operating Systems: LRU Policy](https://github.com/Gholamrezadar/LRU-Policy) LRU policy visualization for "OS" course at SBUK.
-- [Operating Systems: Bankers' Algorithm](https://github.com/Gholamrezadar/Bankers-Algorithm) Bankers' Algorithm visualization for "OS" course at SBUK.
-- [Adv. Programming: Konkur](https://github.com/Gholamrezadar/Konkur) Education Institute Project using C# and WPF for my "Adv. Prog." course at SBUK.
-- [Algorithm Design: Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) Triomino Tiling Divide & Conquer Visualization for my "Algo" course at SBUK.
-- [Digital Circuits Lab: RFID Scanner](https://github.com/Gholamrezadar/RFID_Scanner) RFID Scanner hardware project for my "Az madar" course at SBUK.
-
 🌞 Computer Graphics
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
-- [GHDcode](https://github.com/Gholamrezadar/GHDcode) A simple text editor written in C++ using raylib.
 - [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
-- [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, a gui and progressive rendering.
+- [OpenGL Advanced Bloom](https://github.com/Gholamrezadar/opengl_advanced_bloom) A modern bloom effect in OpenGL
+- [GHDpt-c++](https://github.com/Gholamrezadar/GHDpt-cpp) An improvement on [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer). Added multithreading, GUI (Hazelnut + imgui) and progressive rendering.
 - [GHD Path Tracer](https://github.com/Gholamrezadar/GHD-Path-Tracer) A simple path tracer I built by following the "raytracing in a weekend" book.
 - [Circle Packing](https://github.com/Gholamrezadar/circle-packing) Packing circles without overlap in a plane!
 - [3D Cube Raw SDL](https://github.com/Gholamrezadar/SDL-3D-Cube) Rendering the wireframe of a rotating cube from scratch using SDL and math!
@@ -119,6 +103,8 @@
 - [Shadow Visualization thing](https://editor.p5js.org/Gholamrezadar/full/Qu1qX2DeU) Simple visualization of a circle casting a 2D shadow.
 - [Voronoi Diagram](https://editor.p5js.org/Gholamrezadar/full/GLUKDC5Xe) Draw the Voronoi pattern using p5*js. [Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram)
 - [Simple Cube using Perspective Projection](https://editor.p5js.org/Gholamrezadar/full/PHjIi-n2V) A simple 3D cube projected using perspective projection on 2D plane using a camera.
+- [minigl Hello Cube](https://github.com/Gholamrezadar/minigl-hello-cube) A minimal opengl hello cube boilerplate project (CMake)
+- [Raylib + imgui boilerplate](https://github.com/Gholamrezadar/raylib_imgui_example) A boilerplate project for using imgui with Raylib (CMake)
 
 📸 Image Processing
 - [Rubik's Cube Recognition](https://github.com/Gholamrezadar/rubiks-cube-recognition) Detecting faces of a Rubik's Cube using only 2 three-quarters view images.
@@ -130,6 +116,10 @@
 - [Kernel Convolution Bokeh Simulation](https://github.com/Gholamrezadar/kernel-convolution-bokeh-simulation) A simple kernel convolution based bokeh simulator.
 - [Tilable Texture Vizualizer](https://github.com/Gholamrezadar/tileable-texture-vizualizer) A helper tool to crop a tileable portion of a texture.
 - [OpenCV Face Filter](https://github.com/Gholamrezadar/snapchat-face-filter) A Snapchat-like face filter implementation using Python and OpenCV.
+
+Desktop Apps
+- [GHD Game Launcher](https://github.com/Gholamrezadar/ghd_game_launcher) An offline launcher for Games and Applications made with Qt and QML.
+- [GHDcode](https://github.com/Gholamrezadar/GHDcode) A simple text editor written in C++ using raylib.
 
 🌐 Web Dev
 - [Github Direct Downloader](https://github.com/Gholamrezadar/github-direct-downloader)[🔗](https://github-direct-downloader.vercel.app/) Want to download a just one folder or a single file from a Github repo?
@@ -171,13 +161,32 @@
 - [010101010101010](https://editor.p5js.org/Gholamrezadar/full/5pkHInDH0) A 01-filled background!
 - [White and yellow lines!](https://editor.p5js.org/Gholamrezadar/full/W07Ere8fG) Rasme dabirestan!
 
-❌🧠 Dumb Ideas
+❌🧠 Random Ideas
 - [Most Profitable Actors Analysis Project](https://github.com/Gholamrezadar/most-profitable-actors) How much have each actors movies sold overall?
 - [Keyboard Frequency Analysis](https://github.com/Gholamrezadar/keyboard-frequency-analysis) QWERTY and Persian keyboard layout comparison.
 - [History Timeline](https://github.com/Gholamrezadar/history-timeline) Timeline of random events!
 - [Floating Point Experiment](https://github.com/Gholamrezadar/floating_point_experiment) The next float number after 1,000,000,000 is 1,000,000,064!
-  
+
+🎓 University Courses
+- [Computer Vision Exercises](https://github.com/Gholamrezadar/computer-vision-exercises) Repository containing homework assignments for my "CV" course at AUT.
+- [Digital Image Processing Exercises](https://github.com/Gholamrezadar/digital-image-processing-exercises) Repository containing homework assignments for my "DIP" course at AUT.
+- [Natural Language Understanding Exercises](https://github.com/Gholamrezadar/natural-language-understanding-exercises) Repository containing homework assignments for my "NLU" course at AUT.
+- [Neural Networks Exercises](https://github.com/Gholamrezadar/neural-networks-exercises) Repository containing homework assignments for my "DNN" course at AUT.
+- [Machine Learning Exercises](https://github.com/Gholamrezadar/machine-learning-exercises-new) Repository containing homework assignments for my "ML" course at AUT.
+- [Applied Linear Algebra Exercices](https://github.com/Gholamrezadar/applied-linear-algebra-exercises) Repository containing homework assignments for my "Linalg" course at AUT.
+- [Statistical Pattern Recognition](https://github.com/Gholamrezadar/statistical-pattern-recognition-exercises) Repository containing homework assignments for my "SPR" course at AUT.
+- [Convex Optimizations](https://github.com/Gholamrezadar/convex-optimization-exercises) Repository containing homework assignments for my "Convex" course at AUT.
+- [Computer Organization: Soccer robot](https://github.com/Gholamrezadar/Soccer-Player-Robot) Soccer player robot using raspberry pi 3 for my "Memari" course at SBUK.
+- [Operating Systems: LRU Policy](https://github.com/Gholamrezadar/LRU-Policy) LRU policy visualization for "OS" course at SBUK.
+- [Operating Systems: Bankers' Algorithm](https://github.com/Gholamrezadar/Bankers-Algorithm) Bankers' Algorithm visualization for "OS" course at SBUK.
+- [Adv. Programming: Konkur](https://github.com/Gholamrezadar/Konkur) Education Institute Project using C# and WPF for my "Adv. Prog." course at SBUK.
+- [Algorithm Design: Triomino Tiling](https://github.com/Gholamrezadar/Triomino-Tiling) Triomino Tiling Divide & Conquer Visualization for my "Algo" course at SBUK.
+- [Digital Circuits Lab: RFID Scanner](https://github.com/Gholamrezadar/RFID_Scanner) RFID Scanner hardware project for my "Az madar" course at SBUK.
+
 🔧 Tools
+- [Recursive video encoder](https://github.com/Gholamrezadar/recursive_video_encoder/) Recursively encode videos in a base folder while keeping the folder structure intact (useful for compressing video courses)
+- [Houdini Node Analyzer](https://github.com/Gholamrezadar/houdini_node_analyzer/) Finding the most used nodes across many Houdini files
+- [CF Rating Badge Extension](https://github.com/Gholamrezadar/cf_rating_badge_extension) (Chrome Extension) Displays a rating badge beside problems in codeforces
 - [GHD Screenshot](https://github.com/Gholamrezadar/GHDscreenshot) A GUI application for efficiently taking region screenshots. better than Snipping tool!
 - [GHD Timer Python module](https://github.com/Gholamrezadar/ghdtimer) A Python library with minimal and easy API to debug the running time of pieces of code.
 - [Batch Resize Images](https://github.com/Gholamrezadar/batch-resize-images) A Python tool for batch resizing of Images in a directory (very useful for archiving images).
