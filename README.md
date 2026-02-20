@@ -92,6 +92,7 @@
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 #### 📝 AI/NLP
+- [Fine-tuning LLMs on Letter Counting](https://github.com/Gholamrezadar/finetuning_llm_on_letter_counting) Fine-tuning Gemma 3 4B using PEFT and QLoRA on counting letters in words!
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
 - [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
 - [AI File Renamer](https://github.com/Gholamrezadar/ai-renamer) A Python script that generates a descriptive name for a file based on its content using AI.
