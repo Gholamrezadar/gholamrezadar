@@ -92,6 +92,9 @@
 - [MNIST Classification](https://github.com/Gholamrezadar/mnist-classification) The most basic CV pytorch project. A good boilerplate for starting a simple pytorch project. (MLP and CNN)
 
 #### 📝 AI/NLP
+- [Local LLM Benchmarks](https://github.com/Gholamrezadar/ghd-local-llm-benchmark) My Local LLM benchmarks for personal use.
+- [Custom LLM Autocomplete](https://github.com/Gholamrezadar/ghd-llm-autocomplete-practice) Custom LLM autocomplete practice tool.
+- [GHDLLM](https://github.com/Gholamrezadar/ghdllm-go) Command-line llm interface with support for pipes.
 - [Fine-tuning LLMs on Letter Counting](https://github.com/Gholamrezadar/finetuning_llm_on_letter_counting) Fine-tuning Gemma 3 4B using PEFT and QLoRA on counting letters in words!
 - [Scientific QA using RAG](https://github.com/Gholamrezadar/scientific-qa-rag) Answering Multiple Choice Scientific Questions using RAG + Internet Search.
 - [AI Filesystem Agent](https://github.com/Gholamrezadar/ai-filesystem-agent) An AI filesystem agent that can manage your filesystem using LLMs + tools.
@@ -105,6 +108,7 @@
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
 #### 🌞 Computer Graphics
+- [miniGL - Shadow Mapping](https://github.com/Gholamrezadar/minigl-shadow-mapping) Implementing shadow mapping related techniques in opengl.
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
 - [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
 - [OpenGL Advanced Bloom](https://github.com/Gholamrezadar/opengl_advanced_bloom) A modern bloom effect in OpenGL
@@ -139,6 +143,9 @@
 - [GHDcode](https://github.com/Gholamrezadar/GHDcode) A simple text editor written in C++ using raylib.
 
 #### 🌐 Web Dev
+- [ComfyUI Chat](https://github.com/Gholamrezadar/comfyui-chat) A modern chat interface for image creation and editing backed by ComfyUI.
+- [SSE Practice](https://github.com/Gholamrezadar/ghd-sse-practice) Custom Server Sent Events Practice for future projects.
+- [ComfyUI API Practice](https://github.com/Gholamrezadar/comfyui-api-practice) Trying to learn how ComfyUI API works for future projects.
 - [Github Direct Downloader](https://github.com/Gholamrezadar/github-direct-downloader)[🔗](https://github-direct-downloader.vercel.app/) Want to download a just one folder or a single file from a Github repo?
 - [Music Note Transformer](https://github.com/Gholamrezadar/music-note-transformer/) [🔗](https://music-note-transformer.vercel.app/) Transforms piano music notes to https://www.onlinepianist.com/virtual-piano format.
 - [GHDratings](https://github.com/Gholamrezadar/GHDratings) [🔗](https://ghdratings.vercel.app/) A Feature-rich episode ratings browser web-app targeting Naruto & Naruto Shippuden.
@@ -151,6 +158,7 @@
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 #### 🕹 Game Dev
+- [Perspective Illusion Box Game](https://github.com/Gholamrezadar/perspective-box-game) Roll a box while defying depth and logic
 - [Hollow Knight Clone](https://github.com/Gholamrezadar/hollow-knight-clone) HK clone in Godot (Slow WIP).
 - [Curved Card Deck](https://editor.p5js.org/Gholamrezadar/full/HXQisP5-g) A curved card deck.
 - [Balatro Card Movement](https://editor.p5js.org/Gholamrezadar/full/jbCjv4xEs) Recreating Balatro's card drag effect.
@@ -164,6 +172,7 @@
 - [Star with Chromatic abberation](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
 #### 🖋 Visualizations
+- [Teaching Backtracking](https://github.com/Gholamrezadar/learning-backtracking) Visual examples for learning backtracking.
 - [Snell's Law Simulation + Bezier Curves](https://editor.p5js.org/Gholamrezadar/full/oZ0V6oO_0) Simulating light rays hitting a lens of arbitrary shape.
 - [Ball Moves Balls!](https://editor.p5js.org/Gholamrezadar/full/U2Y6pqS1M) Ball Moves Balls!
 - [Maze Generation Animation](https://editor.p5js.org/Gholamrezadar/full/47dhAu93X) Generating and animating a ball go through the maze using DFS.
