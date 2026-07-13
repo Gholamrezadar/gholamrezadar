@@ -158,6 +158,8 @@
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 #### 🕹 Game Dev
+- [Fortnite 2D]() 2D clone of Fortnite in Godot #TODO
+- [Water Foam Effect]() Depth based water foam effect in Godot. #TODO
 - [Perspective Illusion Box Game](https://github.com/Gholamrezadar/perspective-box-game) Roll a box while defying depth and logic
 - [Hollow Knight Clone](https://github.com/Gholamrezadar/hollow-knight-clone) HK clone in Godot (Slow WIP).
 - [Curved Card Deck](https://editor.p5js.org/Gholamrezadar/full/HXQisP5-g) A curved card deck.
@@ -166,10 +168,11 @@
 - [Snake Constraints Simulation](https://editor.p5js.org/Gholamrezadar/full/ygiz1TMmE) A Snake/Rope Simulation using constraints.
 
 #### 🖋 Shaders
-- [Raymarching Simple Shapes GLSL](https://www.shadertoy.com/view/WXsSDj) A Simple Raymarching Shader.
-- [Mandelbrot fast GLSL](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot set (faster than the previous js method)
+- [Chromatic aberration Inside](https://www.shadertoy.com/view/Ncd3W4) Chromatic Aberration shader inspired by Inside.
+- [Raymarching Simple Shapes](https://www.shadertoy.com/view/WXsSDj) A Simple Raymarching Shader.
+- [Mandelbrot shader](https://www.shadertoy.com/view/ctK3W1) A GLSL shader that draws the Mandelbrot fractal (faster than the previous js method).
 - [Shader?!!!](https://www.shadertoy.com/view/dltSW4) Shader!
-- [Star with Chromatic abberation](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
+- [Star with Chromatic aberration](https://www.shadertoy.com/view/WsScWz) A simple shader that draws a circle with a chromatic aberration effect.
   
 #### 🖋 Visualizations
 - [Teaching Backtracking](https://github.com/Gholamrezadar/learning-backtracking) Visual examples for learning backtracking.
