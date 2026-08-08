@@ -108,6 +108,7 @@
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
 #### 🌞 Computer Graphics
+- [Hello Triangle WebGPU](https://github.com/Gholamrezadar/hello-triangle-webgpu) Hello Triangle in WebGPU (js).
 - [miniGL - Shadow Mapping](https://github.com/Gholamrezadar/minigl-shadow-mapping) Implementing shadow mapping related techniques in opengl.
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
 - [Bloom-c++](https://github.com/Gholamrezadar/bloom_cpp) A modern bloom effect implemented on the CPU using C++;
@@ -143,6 +144,8 @@
 - [GHDcode](https://github.com/Gholamrezadar/GHDcode) A simple text editor written in C++ using raylib.
 
 #### 🌐 Web Dev
+- [GHD Books](https://github.com/Gholamrezadar/ghd-books)[🔗](https://ghd-books.vercel.app/) AI written personal booklets on various topics.
+- [OpenAI API Proxy+Dashboard](https://github.com/Gholamrezadar/openai-proxy) A proxy and a dashboard for analyzing OpenAI Compatible endpoints.
 - [ComfyUI Chat](https://github.com/Gholamrezadar/comfyui-chat) A modern chat interface for image creation and editing backed by ComfyUI.
 - [SSE Practice](https://github.com/Gholamrezadar/ghd-sse-practice) Custom Server Sent Events Practice for future projects.
 - [ComfyUI API Practice](https://github.com/Gholamrezadar/comfyui-api-practice) Trying to learn how ComfyUI API works for future projects.
