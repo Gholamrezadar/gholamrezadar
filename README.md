@@ -161,6 +161,7 @@
 - [What to pick for next semester!](https://github.com/Gholamrezadar/wtp) [🔗](https://gholamrezadar.github.io/wtp/) A simple web app that recommends courses to pick for your next semester (CS only).
 
 #### 🕹 Game Dev
+- [Balatro UI Counter](https://gholamreza.itch.io/balatro-ui-counter) A Balatro inspired counter test project
 - [Fortnite 2D]() 2D clone of Fortnite in Godot #TODO
 - [Water Foam Effect]() Depth based water foam effect in Godot. #TODO
 - [Perspective Illusion Box Game](https://github.com/Gholamrezadar/perspective-box-game) Roll a box while defying depth and logic
