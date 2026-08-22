@@ -108,6 +108,7 @@
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
 #### 🌞 Computer Graphics
+- [miniGL - Paint](https://github.com/Gholamrezadar/minigl-hello-paint) Simple paint app.
 - [Hello Triangle WebGPU](https://github.com/Gholamrezadar/hello-triangle-webgpu) Hello Triangle in WebGPU (js).
 - [miniGL - Shadow Mapping](https://github.com/Gholamrezadar/minigl-shadow-mapping) Implementing shadow mapping related techniques in opengl.
 - [GHDgl](https://github.com/Gholamrezadar/GHDgl) My OpenGL experimentation and learning sandbox.
@@ -125,7 +126,7 @@
 - [Shadow Visualization thing](https://editor.p5js.org/Gholamrezadar/full/Qu1qX2DeU) Simple visualization of a circle casting a 2D shadow.
 - [Voronoi Diagram](https://editor.p5js.org/Gholamrezadar/full/GLUKDC5Xe) Draw the Voronoi pattern using p5*js. [Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram)
 - [Simple Cube using Perspective Projection](https://editor.p5js.org/Gholamrezadar/full/PHjIi-n2V) A simple 3D cube projected using perspective projection on 2D plane using a camera.
-- [minigl Hello Cube](https://github.com/Gholamrezadar/minigl-hello-cube) A minimal opengl hello cube boilerplate project (CMake)
+- [miniGL - Hello Cube](https://github.com/Gholamrezadar/minigl-hello-cube) A minimal opengl hello cube boilerplate project (CMake)
 - [Raylib + imgui boilerplate](https://github.com/Gholamrezadar/raylib_imgui_example) A boilerplate project for using imgui with Raylib (CMake)
 
 #### 📸 Image Processing
