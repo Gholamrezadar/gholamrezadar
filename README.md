@@ -107,7 +107,8 @@
 - [Universal Function Approximation](https://github.com/Gholamrezadar/Universal-Function-Approximator) An experiment to understand how shallow neural networks can approximate any function.
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
-#### 🌞 Computer Graphics
+#### 🌞 Computer Graphics / GPU Programming
+- [UPenn MatMul](https://github.com/Gholamrezadar/CIS5650-CUDA-Project0-Getting-Started) UPenn GPU Programming and Architecture Project 0 - Intro to GPU Programming (MatMul, Tiled MatMul, SAXPY, Transpose, ...) 
 - [miniGL - Paint](https://github.com/Gholamrezadar/minigl-hello-paint) Simple paint app.
 - [Hello Triangle WebGPU](https://github.com/Gholamrezadar/hello-triangle-webgpu) Hello Triangle in WebGPU (js).
 - [miniGL - Shadow Mapping](https://github.com/Gholamrezadar/minigl-shadow-mapping) Implementing shadow mapping related techniques in opengl.
