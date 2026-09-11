@@ -61,7 +61,7 @@
 
 [AI/Vision](#-aivision) &nbsp;|&nbsp;
 [AI/NLP](#-ainlp) &nbsp;|&nbsp;
-[Computer Graphics](#-computer-graphics) &nbsp;|&nbsp;
+[Computer Graphics](#-computer-graphics--gpu-programming) &nbsp;|&nbsp;
 [Image Processing](#-image-processing) &nbsp;|&nbsp;
 [Desktop Apps](#%EF%B8%8F-desktop-apps) &nbsp;|&nbsp;
 [Web Dev](#-web-dev) &nbsp;|&nbsp;
@@ -108,6 +108,9 @@
 - [Name Nationality Classification](https://github.com/Gholamrezadar/name-nationality-classification) The most basic NLP pytorch project. Classifying names using a character-level MLP and RNN.
 
 #### 🌞 Computer Graphics / GPU Programming
+- [UPenn CUDA Path Tracer](https://github.com/Gholamrezadar/CIS5650-CUDA-Project3-CUDA-Path-Tracer) WIP
+- [UPenn Stream Compaction](https://github.com/Gholamrezadar/CIS5650-CUDA-Project2-Stream-Compaction) WIP
+- [UPenn Flocking Simulation](https://github.com/Gholamrezadar/CIS5650-CUDA-Project1-CUDA-Flocking) WIP
 - [UPenn MatMul](https://github.com/Gholamrezadar/CIS5650-CUDA-Project0-Getting-Started) UPenn GPU Programming and Architecture Project 0 - Intro to GPU Programming (MatMul, Tiled MatMul, SAXPY, Transpose, ...) 
 - [miniGL - Paint](https://github.com/Gholamrezadar/minigl-hello-paint) Simple paint app.
 - [Hello Triangle WebGPU](https://github.com/Gholamrezadar/hello-triangle-webgpu) Hello Triangle in WebGPU (js).
